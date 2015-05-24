@@ -1,6 +1,6 @@
 # Atari 2600 Web Generator
 
-Utility to genreate wep pages with Atari 2600 games embedded using jStella emulator with predefined configuration: 
+Utility to genreate wep pages with Atari 2600 games embedded using jStella emulator with predefined configuration.
 
 Options:
 *   Paddle Mode (Automatic (switch by rom name), On/Off,Default Automatic)  
@@ -9,4 +9,4 @@ Options:
 *   Resolution (Default:570:460)  
 
 Usage:
-* Drag&Drop Game Gear rom files to generate.
+* Drag&Drop Atari rom files to generate.
