@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atari 2600 Generator", "Atari 2600 Generator\Atari 2600 Generator.csproj", "{021DE47F-555B-4AB1-B537-A273A445E6A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{021DE47F-555B-4AB1-B537-A273A445E6A9}.Debug|x86.ActiveCfg = Debug|x86
+		{021DE47F-555B-4AB1-B537-A273A445E6A9}.Debug|x86.Build.0 = Debug|x86
+		{021DE47F-555B-4AB1-B537-A273A445E6A9}.Release|x86.ActiveCfg = Release|x86
+		{021DE47F-555B-4AB1-B537-A273A445E6A9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
